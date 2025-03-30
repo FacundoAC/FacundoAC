@@ -29,36 +29,36 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FacundoAnguloCabrera&theme=dracula" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FacundoAC&theme=dracula" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FacundoAnguloCabrera&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FacundoAC&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoAnguloCabrera&layout=compact&theme=dracula&langs_count=10" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoAC&layout=compact&theme=dracula&langs_count=10" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 🚀 Proyectos Destacados
-- 🏗 **[Sistema de Control de Comidas](https://github.com/FacundoAnguloCabrera/control-comidas)** (React + Node.js + SQL Server)
-- 🌍 **[Portafolio Personal](https://github.com/FacundoAnguloCabrera/mi-portafolio)** (React + Bootstrap)
-- 🔒 **[Gestión de Usuarios en JSP](https://github.com/FacundoAnguloCabrera/gestion-usuarios)** (JSP + phpMyAdmin)
-- 🎮 **[Juego en JavaScript](https://github.com/FacundoAnguloCabrera/juego-js)** (HTML + CSS + JS)
+- 🏗 **[Sistema de Control de Comidas](https://github.com/FacundoAC/control-comidas)** (React + Node.js + SQL Server)
+- 🌍 **[Portafolio Personal](https://github.com/FacundoAC/mi-portafolio)** (React + Bootstrap)
+- 🔒 **[Gestión de Usuarios en JSP](https://github.com/FacundoAC/gestion-usuarios)** (JSP + phpMyAdmin)
+- 🎮 **[Juego en JavaScript](https://github.com/FacundoAC/juego-js)** (HTML + CSS + JS)
 
 ---
 
 ### 📫 Contacto
-📩 **Email:** facundo.angulo@example.com  
-💼 **LinkedIn:** [Facundo Angulo Cabrera](https://www.linkedin.com/in/facundoangulo)  
-🌎 **Portafolio:** [facundoangulo.dev](https://facundoangulo.dev)
+📩 **Email:** facundo0034@gmail.com  
+💼 **LinkedIn:** [Facundo Angulo](https://www.linkedin.com/in/facundo-angulo-95287a291/)
+🌎 **Portafolio:** [FacundoAC](https://facundoangulo.dev)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FacundoAnguloCabrera&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=FacundoAC&color=blue" alt="Profile Views"/>
 </p>
 
 ✨ _¡Gracias por visitar mi perfil!_ 😊
