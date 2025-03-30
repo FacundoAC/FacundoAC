@@ -43,7 +43,7 @@
 ---
 
 ### 🚀 Proyectos Destacados
-- 🏗 **[Sistema de Control de Comidas](https://github.com/FacundoAC/control-comidas)** (React + Node.js + SQL Server)
+- 🏗 **[Juego de Adivinanza](https://github.com/FacundoAC/JuegoAdivinanza))** (Html + CSS + JavaScript)
 - 🌍 **[Portafolio Personal](https://github.com/FacundoAC/mi-portafolio)** (React + Bootstrap)
 - 🔒 **[Gestión de Usuarios en JSP](https://github.com/FacundoAC/gestion-usuarios)** (JSP + phpMyAdmin)
 - 🎮 **[Juego en JavaScript](https://github.com/FacundoAC/juego-js)** (HTML + CSS + JS)
