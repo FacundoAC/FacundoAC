@@ -43,10 +43,9 @@
 ---
 
 ### 🚀 Proyectos Destacados
-- 🏗 **[Juego de Adivinanza](https://facundoac.github.io/Amigo-Secreto-/)** (Html + CSS + JavaScript)
+- 🏗 **[Amigo Secreto](https://facundoac.github.io/Amigo-Secreto-/)** (Html + CSS + JavaScript)
 - 🌍 **[Portafolio Personal](https://github.com/FacundoAC/mi-portafolio)** (React + Bootstrap)
-- 🔒 **[Gestión de Usuarios en JSP](https://github.com/FacundoAC/gestion-usuarios)** (JSP + phpMyAdmin)
-- 🎮 **[Juego en JavaScript](https://github.com/FacundoAC/juego-js)** (HTML + CSS + JS)
+- 🎮 **[Juego en JavaScript](https://juego-adivinanza-five.vercel.app/)** (HTML + CSS + JS)
 
 ---
 
