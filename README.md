@@ -62,9 +62,8 @@
 
 ### 📫 Contacto  
 
-📩 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:facundo0034@gmail.com)  
-💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-angulo-95287a291/)  
-🌎 [![Portafolio](https://img.shields.io/badge/Portafolio-000?style=flat&logo=github&logoColor=white)](https://github.com/FacundoAC)  
+[![📩 Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:facundo0034@gmail.com)  [![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-angulo-95287a291/) [![🌎 Portafolio](https://img.shields.io/badge/Portafolio-000?style=flat&logo=github&logoColor=white)](https://github.com/FacundoAC)
+
 
 ---
 
