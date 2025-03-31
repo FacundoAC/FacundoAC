@@ -50,7 +50,7 @@
 ---
 
 ### 📫 Contacto
-📩 **Email:** facundo0034@gmail.com  
+📩 **Email:** [facundo0034@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRrmJWcsbFptCVnrJBxqrKLpZkvMRHsfzKkjZSvzZgKjzQcdxNcvmjWPTtPJlfVfpJTlfql)  
 💼 **LinkedIn:** [Facundo Angulo](https://www.linkedin.com/in/facundo-angulo-95287a291/)
 🌎 **Portafolio:** [FacundoAC](https://github.com/FacundoAC)
 
